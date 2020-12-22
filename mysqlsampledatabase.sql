@@ -3,7 +3,6 @@
 http://www.mysqltutorial.org
 *********************************************************************
 Name: MySQL Sample Database classicmodels
-Link: http://www.mysqltutorial.org/mysql-sample-database.aspx
 Version 3.1
 + changed data type from DOUBLE to DECIMAL for amount columns
 Version 3.0
